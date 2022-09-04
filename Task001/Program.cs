@@ -1,6 +1,6 @@
-﻿int a = 5, b = 7;
+﻿int a = -9, b = -3;
 
-int max = 7;
+int max = -9;
 int min = 0;
 
 if (a>max) max=a;
